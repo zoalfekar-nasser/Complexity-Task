@@ -34,7 +34,6 @@ in time O(n(n+m)).
 5. Raed Jaberi, Minimum 2-Vertex Strongly Biconnected Spanning Directed Subgraph Problem Discrete Mathematics Letters, 40-43, Volume 7(2021) DOI: 10.47443/dml.2021.0024
 
 6. Stanford Large Network Dataset Collection, https://snap.stanford.edu/data/index.html
-   You can add a README file to a repository to communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, communicates expectations for your project and helps you manage contributions.
 
 ## Testing Results
 
