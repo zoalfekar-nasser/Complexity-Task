@@ -202,7 +202,7 @@ function buildUndirectedGraph(vertices, edges) {
 }
 // صبا علي أيوب end
 
-// مجد فيصل سيف start
+// مجد عصام سيف start
 // Example usage with a SNAP formatted graph
 const filePath = "graphs-for-test/Wiki-Vote.txt"; // Replace with the actual file path
 const { edges, vertices } = parseGraphData(filePath);
@@ -244,4 +244,4 @@ if (isDirectedGraph) {
   console.timeEnd("2-Connected Check");
 }
 
-// مجد فيصل سيف end
+// مجد عصام سيف end
