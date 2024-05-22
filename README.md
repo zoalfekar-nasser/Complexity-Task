@@ -38,27 +38,22 @@ in time O(n(n+m)).
 
 ## Testing Results
 
-| Graph Description      | Type       | Nodes   | Edges   | is2Connected -Time- | isStronglyConnected -Time- | isStronglyBiconnected -Time- | is2VertexStronglyBiconnected -Time- |
-| ---------------------- | ---------- | ------- | ------- | ------------------- | -------------------------- | ---------------------------- | ----------------------------------- |
-| Amazon product network | Undirected | 334,863 | 925,872 | true -30.381ms-     | false                      | false                        | false                               |
-
-|Youtube online social network|Undirected|1,134,890|2,987,624|true -21.978ms- |false | false | false |
-
-|Email communication network from Enron|Undirected|36,692|183,831|false -34.616ms- |false | false | false |
-
-|Arxiv High Energy Physics paper citation network|Directed|34,546|421,578|false |false -25.081ms- |false -16.142ms- |false -22.726ms- |
-
-|Email network from a EU research institution|Directed|265,214|420,045|false |false -8.643ms- |false -2.157ms- |false -5.4ms- |
-
-|Wikipedia who-votes-on-whom network|Directed|7,115|03,689|false|false -13.996ms- |false - 8.589ms- |false -12.504ms- |
+| Graph Description                                | Type       | Nodes     | Edges     | is2Connected -Time- | isStronglyConnected -Time- | isStronglyBiconnected -Time- | is2VertexStronglyBiconnected -Time- |
+| ------------------------------------------------ | ---------- | --------- | --------- | ------------------- | -------------------------- | ---------------------------- | ----------------------------------- |
+| Amazon product network                           | Undirected | 334,863   | 925,872   | true -30.381ms-     | false                      | false                        | false                               |
+| Youtube online social network                    | Undirected | 1,134,890 | 2,987,624 | true -21.978ms-     | false                      | false                        | false                               |
+| Email communication network from Enron           | Undirected | 36,692    | 183,831   | false -34.616ms-    | false                      | false                        | false                               |
+| Arxiv High Energy Physics paper citation network | Directed   | 34,546    | 421,578   | false               | false -25.081ms-           | false -16.142ms-             | false -22.726ms-                    |
+| Email network from a EU research institution     | Directed   | 265,214   | 420,045   | false               | false -8.643ms-            | false -2.157ms-              | false -5.4ms-                       |
+| Wikipedia who-votes-on-whom network              | Directed   | 7,115     | 03,689    | false               | false -13.996ms-           | false - 8.589ms-             | false -12.504ms-                    |
 
 ## Students
 
-- 5811 دعاء رسمي الجوابره
-- ذوالفقار محمد ناصر 6200
+- 5811 دعاء رسمي الجاوبره
+- 6200 ذوالفقار محمد ناصر
 - 6378 رشا منتجب سلطان
-- رغد محمود صبح 6684
-- ريم محمد جمعة 5004
-- صبا علي أيوب 6155
-- عمار فيصل أبو سعد 6424
-- مجد عصام سيف 5406
+- 6684 رغد محمود صبح
+- 5004 ريم محمد جمعة
+- 6155 صبا علي أيوب
+- 6424 عمار فيصل أبو سعد
+- 5406 مجد عصام سيف
